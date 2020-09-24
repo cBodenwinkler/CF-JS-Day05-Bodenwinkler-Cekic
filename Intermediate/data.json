@@ -1,0 +1,94 @@
+var employee = `
+[
+  {
+    "UniqueID": "1",
+    "FirstName": "Lisa",
+    "LastName": "King",
+    "EmailAddress": "lisa.king@com",
+    "JobTitle": "artist",
+    "Salary": "3000"
+
+  },
+  {
+    "UniqueID": "2",
+    "FirstName": "Robert",
+    "LastName": "Chang",
+    "EmailAddress": "robert.c@com",
+    "JobTitle": "singer",
+    "Salary": "2000"
+
+  },
+  {
+    "UniqueID": "3",
+    "FirstName": "Seraj",
+    "LastName": "Bing",
+    "EmailAddress": "seraj.b@com",
+    "JobTitle": "Kindergarden Teacher",
+    "Salary": "2500"
+
+  },
+  {
+    "UniqueID": "4",
+    "FirstName": "Jeremy",
+    "LastName": "Soul",
+    "EmailAddress": "Jeremy.@com",
+    "JobTitle": "musician",
+    "Salary": "5050"
+
+  },
+  {
+    "UniqueID": "5",
+    "FirstName": "Sahra",
+    "LastName": "Brown",
+    "EmailAddress": "Sahra.b@com",
+    "JobTitle": "Teacher",
+    "Salary": "3000"
+
+  },
+  {
+    "UniqueID": "6",
+    "FirstName": "Liz",
+    "LastName": "Miller",
+    "EmailAddress": "Liz.m@com",
+    "JobTitle": "mother",
+    "Salary": "priceless"
+
+  },
+  {
+    "UniqueID": "7",
+    "FirstName": "Jenny",
+    "LastName": "Krüger",
+    "EmailAddress": "Jenny.k@com",
+    "JobTitle": "Burgerfrier",
+    "Salary": "6500"
+
+  },
+  {
+    "UniqueID": "8",
+    "FirstName": "Arina",
+    "LastName": "Petrova",
+    "EmailAddress": "arina.p@com",
+    "JobTitle": "Student",
+    "Salary": "0"
+
+  },
+  {
+    "UniqueID": "9",
+    "FirstName": "Benjamin",
+    "LastName": "Franklin",
+    "EmailAddress": "Benjamin.f@com",
+    "JobTitle": "president",
+    "Salary": "1000"
+
+  },
+  {
+    "UniqueID": "10",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "EmailAddress": "John.s@com",
+    "JobTitle": "army general",
+    "Salary": "6500"
+
+  }
+]
+`; 
