@@ -1,0 +1,34 @@
+var books = `
+[
+	{
+		"title": "Javascript for Dummies",
+		"author": "Dummy Dumb Dumb",
+		"read": "false",
+		"image": "https://as.ftcdn.net/r/v1/pics/3401cab6595c62997ed1de2372cbf5f3be1b5056/home/discover_collections/20Sept/video.webp"
+	},
+	{
+		"title": "How to nap perfectly",
+		"author": "Roger Cloud",
+		"read": "true",
+		"image": "https://images.unsplash.com/photo-1529528744093-6f8abeee511d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+	},
+	{
+		"title": "Python Basics",
+		"author": "Hans Rules",
+		"read": "true",
+		"image": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1464&q=80"
+	},
+	{
+		"title": "How to care for Pigs",
+		"author": "Kim Ginger",
+		"read": "false",
+		"image": "https://images.unsplash.com/photo-1580682777666-24a7b3024e24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+	},
+	{
+		"title": "Aloe Vera Love",
+		"author": "Jim Morrison",
+		"read": "true",
+		"image": "https://images.unsplash.com/photo-1587738083865-8bd6306fc09c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
+	}
+
+]`;
